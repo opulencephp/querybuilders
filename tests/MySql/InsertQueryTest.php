@@ -10,7 +10,7 @@
 
 declare(strict_types=1);
 
-namespace Opulence\QueryBuilders\TestsTemp\MySql;
+namespace Opulence\QueryBuilders\Tests\MySql;
 
 use Opulence\QueryBuilders\MySql\InsertQuery;
 use PDO;

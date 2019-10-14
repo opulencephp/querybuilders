@@ -10,7 +10,7 @@
 
 declare(strict_types=1);
 
-namespace Opulence\QueryBuilders\TestsTemp\Conditions;
+namespace Opulence\QueryBuilders\Tests\Conditions;
 
 use Opulence\QueryBuilders\Conditions\NotBetweenCondition;
 

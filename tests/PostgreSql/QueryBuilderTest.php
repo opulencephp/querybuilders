@@ -10,7 +10,7 @@
 
 declare(strict_types=1);
 
-namespace Opulence\QueryBuilders\TestsTemp\PostgreSql;
+namespace Opulence\QueryBuilders\Tests\PostgreSql;
 
 use Opulence\QueryBuilders\PostgreSql\DeleteQuery;
 use Opulence\QueryBuilders\PostgreSql\InsertQuery;

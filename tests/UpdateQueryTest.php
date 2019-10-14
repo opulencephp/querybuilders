@@ -10,7 +10,7 @@
 
 declare(strict_types=1);
 
-namespace Opulence\QueryBuilders\TestsTemp;
+namespace Opulence\QueryBuilders\tests;
 
 use Opulence\QueryBuilders\Conditions\ICondition;
 use Opulence\QueryBuilders\UpdateQuery;
